@@ -1,8 +1,8 @@
 ##WEB SERVER
 
--**CREATE THE DIRECTORY** **data\.db** where MongoDb will save datas lately
+- **CREATE THE DIRECTORY** **data\.db** where MongoDb will save datas lately
 
--**RUN MONGODB** from the directory D:\Biomedica\mongodb\bin and give it the directory created above to save datas
+- **RUN MONGODB** from the directory D:\Biomedica\mongodb\bin and give it the directory created above to save datas
 
 #figura1
 
